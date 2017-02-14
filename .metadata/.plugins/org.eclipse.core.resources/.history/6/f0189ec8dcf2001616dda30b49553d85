@@ -1,0 +1,10 @@
+import java.util.Scanner;//*Importing scanner class for input from keyboard.*//
+public class Calculator { //Declare Calculator class
+
+	public static void main(String[] args) {
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

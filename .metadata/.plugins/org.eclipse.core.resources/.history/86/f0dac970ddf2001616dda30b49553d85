@@ -1,0 +1,14 @@
+import java.util.Scanner;//*Importing scanner class for input from keyboard.*//
+public class Calculator { //Declare Calculator class
+
+	public static void main(String[] args) {
+		double nub1;
+		double nub2;
+		System.out.println("Please input two number for Calculation.");
+		
+	}
+	public addition (double a,double b){
+		
+	}
+
+}
